@@ -11,7 +11,7 @@ setup(
     description='Lightweight terminal logger with timestamps and optional caller inspection.',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/loggerx',  # если есть
+    url='https://github.com/maxadov/tinnyloggy',  # если есть
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
