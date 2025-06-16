@@ -1,0 +1,8 @@
+README.md
+setup.py
+tinnyloggy/__init__.py
+tinnyloggy.egg-info/PKG-INFO
+tinnyloggy.egg-info/SOURCES.txt
+tinnyloggy.egg-info/dependency_links.txt
+tinnyloggy.egg-info/requires.txt
+tinnyloggy.egg-info/top_level.txt
