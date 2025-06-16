@@ -40,6 +40,9 @@ debug_log = Logger(inspect_mode=True)
 debug_log.info("Entering calculation function")
 ```
 
+Output:  
+![Output](https://i.imgur.com/Kic2Iz8.png)
+
 ## Log Levels
 
 TinyLoggy supports four standard log levels with distinctive colors:
