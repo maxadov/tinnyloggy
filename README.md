@@ -16,10 +16,12 @@ TinyLoggy is a minimal yet powerful logging utility designed for Python applicat
 
 ## Installation
 
-Install TinyLoggy using pip:
-
 ```bash
-pip install tinnyloggy
+# Clone the repository
+git clone https://github.com/maxadov/tinnyloggy.git
+
+# Install using pip
+pip install .
 ```
 
 ## Quick Start
